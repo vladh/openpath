@@ -288,9 +288,9 @@ Sewickley, PA
 15143  
 USA
 
-Suggested reciprocation is $5 cash or check (or rough equivalent in your local
-currency). Be sure to include a return address or otherwise specify where to
-mail it.
+Suggested reciprocation is $10 cash or check (or rough equivalent in
+your local currency). Be sure to include a return address or otherwise specify
+where to mail it.
 
 I don't expect for _Gift_ to have an online presence, and I'll go back to
 shuffling Open Source deck chairs ... but in my off-hours I hope to become
