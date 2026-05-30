@@ -11,7 +11,7 @@ This post garnered <a
 href="https://news.ycombinator.com/item?id=48323683">a lovely send-off</a> from
 HN. Thank you all!
 
-P.S. I am also using this moment to share <a
+I am using this moment to share <a
 href="https://www.gofundme.com/manage/help-dana-restore-her-jaw-health-and-ability-to-eat">a
 fund-raiser for my good friend Dana</a>, whom I met IRL and worked with for 15+
 years in Open Source communities. Thanks for helping if you can! 🙏
